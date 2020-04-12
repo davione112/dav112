@@ -1,2 +1,4 @@
 # Collection_Preprocessing
-All projects 
+
+Hi every!
+This repo stored all my data and preprocessing code in R.
